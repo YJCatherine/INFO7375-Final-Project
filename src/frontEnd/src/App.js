@@ -27,73 +27,7 @@ function App() {
 
     // Predefined Q&A data
     const recipeQA = {
-        "I am looking for a hearty vegan dinner option for tonight. What do you recommend?": `
-Tofu Stir-Fry with Vegetables
-
-Ingredients:
-- Tofu (200g, firm, cubed)
-- Olive oil (2 tablespoons)
-- Broccoli (1 cup, florets)
-- Bell pepper (1, sliced)
-- Carrot (1, julienned)
-- Soy sauce (2 tablespoons)
-- Garlic (2 cloves, minced)
-- Ginger (1 tablespoon, grated)
-- Sesame seeds (1 teaspoon)
-
-Instructions:
-1. Press tofu to remove excess moisture, then cube.
-2. Heat olive oil in a large pan over medium heat.
-3. Add garlic and ginger, sauté for 1 minute.
-4. Add broccoli, bell pepper, and carrot, cook for 5 minutes.
-5. Add tofu and soy sauce, stir well to combine.
-6. Cook for another 5-7 minutes until vegetables are tender and tofu is golden.
-7. Garnish with sesame seeds before serving.
-`,
-
-        "I have a nut allergy and I'm looking for a healthy lunch option that doesn't include any nuts. Can you help?": `
-Grilled Chicken Salad
-
-Ingredients:
-- Chicken breast (200g, grilled and sliced)
-- Mixed greens (2 cups)
-- Cherry tomatoes (1/2 cup, halved)
-- Cucumber (1/2, sliced)
-- Olive oil (2 tablespoons)
-- Lemon juice (1 tablespoon)
-- Salt and pepper to taste
-
-Instructions:
-1. Grill chicken breast until fully cooked, then slice.
-2. In a large bowl, combine mixed greens, cherry tomatoes, and cucumber.
-3. In a small bowl, whisk together olive oil, lemon juice, salt, and pepper.
-4. Pour the dressing over the salad and toss to coat evenly.
-5. Top the salad with sliced grilled chicken.
-6. Serve fresh.
-`,
-
-        "It's getting cold outside, and I'm looking for a warm and comforting dinner recipe. What do you suggest?": `
-Beef and Vegetable Stew
-
-Ingredients:
-- Beef chunks (500g)
-- Potatoes (2, cubed)
-- Carrots (2, sliced)
-- Onion (1, chopped)
-- Beef broth (4 cups)
-- Tomato paste (1 tablespoon)
-- Thyme (1 teaspoon, dried)
-- Salt and pepper to taste
-
-Instructions:
-1. In a large pot, brown the beef chunks on all sides.
-2. Add chopped onions and sauté until translucent.
-3. Add potatoes and carrots to the pot.
-4. Pour in beef broth and stir in tomato paste.
-5. Season with thyme, salt, and pepper.
-6. Bring to a boil, then reduce heat and simmer for about 1 hour until beef is tender and vegetables are cooked.
-7. Serve hot, perfect for chilly evenings.
-`
+        "What kind of food do you want to eat today?": ``
     };
 
 
